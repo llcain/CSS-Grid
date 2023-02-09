@@ -1,2 +1,3 @@
 Google - css grid templates -https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
 Google - css grid generator - https://cssgrid-generator.netlify.app/
+Google -  navbar w3schools - https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_basic_css
