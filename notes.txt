@@ -1,0 +1,2 @@
+Google - css grid templates -https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
+Google - css grid generator - https://cssgrid-generator.netlify.app/
