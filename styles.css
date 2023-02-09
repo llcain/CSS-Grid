@@ -1,11 +1,13 @@
 .parent {
     display: grid;
+    height: 80vw;
+    width: 100%;
     grid-template-areas: "header header"
     "main aside"
     "main aside"
     "footer aside";
     grid-template-columns: 2fr 1fr;
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: 0.5fr, repeat(3, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     color: white;
