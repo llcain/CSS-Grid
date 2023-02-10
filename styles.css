@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+main > h1 {
+    color: #ffc107;
+}
+
 html {
     font-size: 62.5%;
     font-family: "Roboto", sans-serif;
@@ -83,4 +87,15 @@ aside {
 footer {
     background-color: purple;
     grid-area: footer;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+
+    h1 {
+        color: blue;
+    }
+
 }
