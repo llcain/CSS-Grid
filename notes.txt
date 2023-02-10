@@ -7,4 +7,4 @@ Google - https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-wi
 Google - space between li items - padding from li css - https://stackoverflow.com/questions/3805123/padding-in-li
 Google - remove underline from li css - https://stackoverflow.com/questions/65012057/remove-underline-from-li-elements
 Google - CSS padding w3schools - https://www.w3schools.com/css/css_padding.asp
-Google - hamburger css html - https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+Google - hamburger css html - https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci - https://www.codewithrandom.com/2023/01/13/hamburger-menu-html-css-javascript-hamburger-menu-code/
