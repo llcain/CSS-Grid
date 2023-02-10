@@ -111,6 +111,20 @@ html {
     border: none;
 }
 
+.blog-photo {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.blog-author {
+    display: flex;
+    margin: 5px 0;    
+}
+
+.author-info {
+    padding: 0 8px;
+}
 
 
 nav {
