@@ -10,3 +10,5 @@ Google - CSS padding w3schools - https://www.w3schools.com/css/css_padding.asp -
 Google - hamburger css html - https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci - https://www.codewithrandom.com/2023/01/13/hamburger-menu-html-css-javascript-hamburger-menu-code/
 Google - media query css - https://www.w3schools.com/css/tryit.asp?filename=trycss3_media_queries1
 Google  - media query ul li css max width - https://stackoverflow.com/questions/42944355/how-to-show-all-ul-li-list-in-media-queries-for-responsive-design
+Google - blog card codepen - https://codepen.io/tag/blog%20card - https://codepen.io/laheshk/pen/MQqzWo
+Google - blog card html css w3schools - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_cards
