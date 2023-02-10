@@ -19,6 +19,10 @@
     color: white;
 }
 
+.logo {
+    margin-top: 1.5rem;
+}
+
 .nobull {
     list-style-type: none;
     display: flex;
@@ -30,6 +34,21 @@
 .nobull li a {
     text-decoration: none;
     padding: 0 30px;
+}
+
+.burger {
+    width: 60px;
+    height: 60px;
+    margin-top: 1.5rem;
+    background-color: green;
+}
+
+.line1 {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: white;
 }
 
 
