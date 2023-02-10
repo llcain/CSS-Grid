@@ -1,3 +1,8 @@
 Google - css grid templates -https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
 Google - css grid generator - https://cssgrid-generator.netlify.app/
 Google -  navbar w3schools - https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_basic_css
+Google -  unordered list navbar - https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_float
+Google - remove buttet point from list - remove bullets from ul - https://getcssscan.com/blog/how-to-remove-bullets-from-li-css - https://www.computerhope.com/issues/ch001704.htm#:~:text=Adding%20the%20%22list%2Dstyle%3A,removes%20any%20bullet%20or%20number.
+Google - https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets - https://getbootstrap.com/docs/5.0/content/typography/#unstyled - Bootstrap - https://getbootstrap.com/2.3.2/#typography - check out the lastest version of Bootstrap - https://getbootstrap.com/
+Google - space between li items - padding from li css - https://stackoverflow.com/questions/3805123/padding-in-li
+Google - remove underline from li css - https://stackoverflow.com/questions/65012057/remove-underline-from-li-elements

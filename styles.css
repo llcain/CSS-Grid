@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .parent {
     display: grid;
     height: 80vw;
@@ -11,6 +17,26 @@
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     color: white;
+}
+
+.nobull {
+    list-style-type: none;
+    display: flex;
+    overflow: hidden;
+    margin: 1.5rem 0;
+    
+}
+
+.nobull li a {
+    text-decoration: none;
+    padding: 0 30px;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
 }
 
 header {
