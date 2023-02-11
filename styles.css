@@ -216,4 +216,11 @@ footer {
     margin: 0 10px;
 }
 
+.footer-content p {
+    max-width: 500px;
+    line-height: 28px;
+    font-size: 14px;
+    color: #cacdd2;
+}
+
 
