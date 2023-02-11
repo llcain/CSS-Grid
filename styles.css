@@ -126,6 +126,39 @@ html {
     padding: 0 8px;
 }
 
+.card {
+  margin: 15px 15px;
+  display: flex;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.card-info {
+    margin: 0 15px;
+}
+
+.card img {
+    height: 100%;
+    width: 40%;
+    margin-right: 0.5rem;
+}
+
+.card p {
+    margin: 0;
+  }
+  
+  .card .title {
+    font-size: 0.8rem;
+  }
+  
+  .card .author {
+    font-size: small;
+  }
+
+.aside .heading {
+    margin: 0;
+    font-weight: 600;
+}
 
 nav {
     display: flex;
