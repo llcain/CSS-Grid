@@ -12,3 +12,4 @@ Google - media query css - https://www.w3schools.com/css/tryit.asp?filename=tryc
 Google  - media query ul li css max width - https://stackoverflow.com/questions/42944355/how-to-show-all-ul-li-list-in-media-queries-for-responsive-design
 Google - blog card codepen - https://codepen.io/tag/blog%20card - https://codepen.io/laheshk/pen/MQqzWo - https://codepen.io/pbruny/pen/XWXObeM - https://codepen.io/BoyWithSilverWings/pen/KGRBmO
 Google - blog card html css w3schools - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_cards
+Google - footer html css codepen - https://codepen.io/coding_dev_/pen/GRBqQgJ - https://codepen.io/coding_dev_/pen/GRBqQgJ
