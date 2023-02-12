@@ -29,6 +29,10 @@ app.get('/projects', function(req, res) {
     res.send("<ul><li>Portfolio</li></ul><ul><li>My Blog</li></ul><ul><li>To-do List</li></ul>");
 })
 
+app.get('/news', function(req, res) {
+    res.send("<h2>News</h2><p>THis is the coming news</p>");
+})
+
 app.listen(3000, function() {
     console.log("Server started on port 3000");
 });
