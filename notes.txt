@@ -24,3 +24,6 @@ Google - express res send html image tag - https://stackoverflow.com/questions/6
 Google - https://stackoverflow.com/questions/35248007/vscode-editor-restart-nodejs-server-when-file-is-changed
 Google - how to render styles.css on express server - https://stackoverflow.com/questions/24582338/how-can-i-include-css-files-using-node-express-and-ejs - https://stackoverflow.com/questions/24582338/how-can-i-include-css-files-using-node-express-and-ejs - https://stackoverflow.com/questions/24582338/how-can-i-include-css-files-using-node-express-and-ejs
 Google - how to render images/image.png on express server
+Google - https://jsonplaceholder.typicode.com/ 
+Google - https://codepen.io/impressivewebs/pen/jOPOqKV
+Google - how to render images/image.png on express server
