@@ -27,3 +27,5 @@ Google - how to render images/image.png on express server
 Google - https://jsonplaceholder.typicode.com/ 
 Google - https://codepen.io/impressivewebs/pen/jOPOqKV
 Google - how to render images/image.png on express server - https://www.geeksforgeeks.org/how-to-fetch-images-from-node-js-server/ - https://www.geeksforgeeks.org/how-to-fetch-images-from-node-js-server/ - The styles and images would not render express server. I had to add a path file to the image file and css folder and styles.css file. 
+Google  - open wheather api - https://openweathermap.org/price
+Google - posyman - is an API platform for building and using API's - https://www.postman.com/ - https://www.encora.com/insights/what-is-postman-api-test#:~:text=Postman%20is%20an%20application%20used,need%20to%20be%20subsequently%20validated.
