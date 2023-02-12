@@ -1,7 +1,9 @@
 //jshint esversion:6
 
+// Requiring module
 const express = require("express");
 
+// Creating express object
 const app = express();
 
 // app.get('/', (req, res) => {
@@ -33,6 +35,10 @@ app.get('/news', function(req, res) {
     res.send("<h2>News</h2><p>THis is the coming news</p>");
 })
 
+// Function to serve all static files
+// inside public directory.
+
+app.use('/images', express.static('images'));
 app.use(express.static('public'));
 
 app.listen(3000, function() {

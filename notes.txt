@@ -26,4 +26,4 @@ Google - how to render styles.css on express server - https://stackoverflow.com/
 Google - how to render images/image.png on express server
 Google - https://jsonplaceholder.typicode.com/ 
 Google - https://codepen.io/impressivewebs/pen/jOPOqKV
-Google - how to render images/image.png on express server
+Google - how to render images/image.png on express server - https://www.geeksforgeeks.org/how-to-fetch-images-from-node-js-server/ - https://www.geeksforgeeks.org/how-to-fetch-images-from-node-js-server/ - The styles and images would not render express server. I had to add a path file to the image file and css folder and styles.css file. 
