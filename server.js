@@ -33,6 +33,8 @@ app.get('/news', function(req, res) {
     res.send("<h2>News</h2><p>THis is the coming news</p>");
 })
 
+app.use(express.static('public'));
+
 app.listen(3000, function() {
     console.log("Server started on port 3000");
 });
