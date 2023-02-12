@@ -16,6 +16,12 @@ app.get('/contact', function(req, res) {
     res.send("<p>Contact me at llcain@gmail.com</p>");
 })
 
+
+app.get('/about', function(req, res) {
+    res.send("<p>I am a self-taught Fullstack Developer. I enjoy contributing to and fixing issues on open-source projects. I like to learn new technologies and dabble in various Frontend development skils. I am looking to work on Reactjs projects. I've worked on react projects before. Check out my portfolio by clicking on the link below. What can I help you with? I am really good at what I do. Business Idea: I can fix it!! What do you need? Converting figma design to responsive mobile...styling website with CSS, Sass, or Bootstrap...implementing an API using Express...connecting to a database like mongodb</p>")
+})
+
+
 app.listen(3000, function() {
     console.log("Server started on port 3000");
 });
