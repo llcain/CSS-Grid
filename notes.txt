@@ -15,3 +15,8 @@ Google - blog card html css w3schools - https://www.w3schools.com/howto/tryit.as
 Google - footer html css codepen - https://codepen.io/coding_dev_/pen/GRBqQgJ - https://codepen.io/coding_dev_/pen/GRBqQgJ
 Google - br text on new line - https://blog.hubspot.com/website/html-line-break#:~:text=To%20do%20a%20line%20break%20in%20HTML%2C%20use%20the%20%3Cbr,%3E%20and%20element. - https://codepen.io/coding_dev_/pen/GRBqQgJ 
 Google - express hello world - https://expressjs.com/en/starter/hello-world.html
+installing express -  https://expressjs.com/en/starter/installing.html
+installing nodemon - https://nodemon.io/
+Google - nodemon server.js not working - https://stackoverflow.com/questions/23927195/nodemon-not-working-properly
+Google - nodemon server.js not restarting - https://www.geeksforgeeks.org/node-js-automatic-restart-node-js-server-with-nodemon/ - https://www.geeksforgeeks.org/node-js-automatic-restart-node-js-server-with-nodemon/
+Google - app.render vs res.render image - https://stackoverflow.com/questions/45115021/rendering-image-with-express-js - https://javascript.plainenglish.io/server-side-image-rendering-with-express-handlebars-cb224187b276
