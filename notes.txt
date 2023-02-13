@@ -30,3 +30,7 @@ Google - how to render images/image.png on express server - https://www.geeksfor
 Google  - open wheather api - https://openweathermap.org/price
 Google - postman - is an API platform for building and using API's - https://www.postman.com/ - https://www.encora.com/insights/what-is-postman-api-test#:~:text=Postman%20is%20an%20application%20used,need%20to%20be%20subsequently%20validated.
 Google - postman tutorial for api testing - https://www.guru99.com/postman-tutorial.html
+Google - make get request to external server node - https://stackoverflow.com/questions/40222563/how-to-make-a-external-api-call-inside-express-server
+Google - https node - https://nodejs.org/api/https.html#httpsrequesturl-options-callback
+ API's - https://kanye.rest/ - https://sv443.net/jokeapi/v2/joke/Programming?blacklistFlags=nsfw&type=single&contains=debugging
+ Google - add body parser to express - https://medium.com/@gohitvaranasi/how-to-use-body-parser-in-express-to-handle-different-post-requests-c58c29d45b46
