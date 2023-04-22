@@ -4,6 +4,9 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
+// Using Node.js 'require()'
+const mongoose = require('mongoose');
+
 // Creating express object
 const app = express();
 

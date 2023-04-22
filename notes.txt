@@ -34,3 +34,7 @@ Google - make get request to external server node - https://stackoverflow.com/qu
 Google - https node - https://nodejs.org/api/https.html#httpsrequesturl-options-callback
  API's - https://kanye.rest/ - https://sv443.net/jokeapi/v2/joke/Programming?blacklistFlags=nsfw&type=single&contains=debugging
  Google - add body parser to express - https://medium.com/@gohitvaranasi/how-to-use-body-parser-in-express-to-handle-different-post-requests-c58c29d45b46
+ Google - openweathermap token exposed on github - https://github.com/nomadcoders/fokin-weather/issues/4 - https://blog.netwrix.com/2022/11/14/how-to-hide-api-keys-github/
+ Google - creating a config js with openweathermap api key - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository - **https://medium.com/@oreillyalan88/how-to-hide-api-keys-from-github-7a14d1bf80c#:~:text=The%20only%20way%20to%20hide,without%20disclosing%20my%20API%20keys.*** 
+ Google - dotenv help with hiding API keys - https://jonathansoma.com/lede/foundations-2019/classes/apis/keeping-api-keys-secret/
+ Google - 
